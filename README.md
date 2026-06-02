@@ -21,5 +21,7 @@ Just like Prometheus brought fire to humanity, my ultimate vision is to master A
 ---
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](LINKEDIN_PROFIL_LINKINIZ)
+- 📸 **Instagram:** [@her_ruined_king](https://www.instagram.com/her_ruined_king?igsh=MTd1Zmx5aXhicWVyeQ==)
+- 📧 **Email:** muhammedefeozkardes@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/prometheuswhohasstolethefire?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/prometheuswhohasstolethefire?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
