@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Efe Özkardeş! 👋 
+### ⚡ "Prometheus Who Has Stole The Fire"
 
-<!--
-**PrometheuseWhoHasStoleTheFire/PrometheuseWhoHasStoleTheFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Computer Engineering student at Manisa Celal Bayar University (English Program) and a Biomedical Technician. 
 
-Here are some ideas to get you started:
+Just like Prometheus brought fire to humanity, my ultimate vision is to master Artificial Intelligence and Machine Learning, eventually bridging the gap between AI and aerospace technologies. I am currently focused on building my foundational engineering skills and mathematical background.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Roadmap & Journey
+- 🎓 **Education:** Computer Engineering at MCBÜ (Strengthening my English and fundamental skills)
+- 🧠 **Current Focus:** Fundamentals of Computer Science, Logic, and Mathematics for AI
+- 🏥 **Professional Role:** Clinical Engineering Unit Supervisor / Biomedical Technician at Ministry of Health
+- 🎯 **Next Goal:** Learning **Python** to dive into the world of Machine Learning (Coursera Specialization)
+
+## ☕ Beyond Engineering
+- 🌌 Deeply interested in physics and space research
+- 🏃‍♂️ Running and exploring data-driven sports tracking
+- ☕ Professional barista skills and coffee culture
+
+---
+
+## 📬 Connect with Me
+- 💼 [LinkedIn](LINKEDIN_PROFIL_LINKINIZ)
+
